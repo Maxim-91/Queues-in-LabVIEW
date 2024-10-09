@@ -56,4 +56,5 @@ To use the program:
 ![image](https://github.com/user-attachments/assets/ab4b7934-9049-4e43-9137-fd21d1932255)
 ![image](https://github.com/user-attachments/assets/5898f855-88d5-4871-b622-88c2ff039644)
 
-## The appearance of the running program
+## The appearance of the program
+![image](https://github.com/user-attachments/assets/acdea72a-bbb8-4ecd-aab3-09e1b3c65eea)
