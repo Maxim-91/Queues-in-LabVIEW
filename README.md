@@ -47,3 +47,13 @@ To use the program:
 3. Use **Read from Queue** to retrieve elements from the queue.
 4. Use **Clear Queue** if needed to empty all elements.
 5. When the queue is no longer needed, use **Delete Queue** to free resources.
+
+## Code
+![image](https://github.com/user-attachments/assets/60fe502d-bf6a-4b57-8805-211c2469ae9d)
+![image](https://github.com/user-attachments/assets/0d29b57b-003a-4430-a35d-d3020379489e)
+![image](https://github.com/user-attachments/assets/0aeb4686-7f7b-4b2e-91e2-99cb05d7e0ab)
+![image](https://github.com/user-attachments/assets/5ac32cc5-6a97-4661-95e4-d7bdbe787f86)
+![image](https://github.com/user-attachments/assets/ab4b7934-9049-4e43-9137-fd21d1932255)
+![image](https://github.com/user-attachments/assets/5898f855-88d5-4871-b622-88c2ff039644)
+
+## The appearance of the running program
